@@ -145,6 +145,19 @@ A música é tocada progressivamente enquanto a contagem regressiva ocorre.
 
 ---
 
+# 📷 Imagens reais do projeto
+<p align="center">
+  <img src="img/Imagem-aperte-p-atravessar.jpeg" width="33%">
+  <img src="img/Imagem-atravesse.jpeg" width="33%">
+  <img src="img/Imagem-pare.jpeg" width="33%">
+</p>
+
+### Link do projeto no TinkerCad
+
+[Aperte aqui para visualizar o projeto no Tinkercad](https://www.tinkercad.com/things/hsZpGRncGyy-semaforo-inteligente?sharecode=WR0LkLC7LonnQze1UXTy1woObO8IlZYylO7u8591N5M)
+
+---
+
 # 👨‍💻 Desenvolvedores
 
 Projeto desenvolvido por:
