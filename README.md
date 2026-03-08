@@ -146,11 +146,9 @@ A música é tocada progressivamente enquanto a contagem regressiva ocorre.
 ---
 
 # 📷 Imagens reais do projeto
-<p align="center">
-  <img src="img/Imagem-aperte-p-atravessar.jpeg" width="33%">
-  <img src="img/Imagem-atravesse.jpeg" width="33%">
-  <img src="img/Imagem-pare.jpeg" width="33%">
-</p>
+| | | |
+|---|---|---|
+| <img src="img/Imagem-aperte-p-atravessar.jpeg" height="300"> | <img src="img/Imagem-atravesse.jpeg" height="300"> | <img src="img/Imagem-pare.jpeg" height="300"> |
 
 ### Link do projeto no TinkerCad
 
